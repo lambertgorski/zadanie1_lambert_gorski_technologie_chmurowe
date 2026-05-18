@@ -1,0 +1,2 @@
+# zadanie1_lambert_gorski_technologie_chmurowe
+Zadanie1 z technologi chmurowych
