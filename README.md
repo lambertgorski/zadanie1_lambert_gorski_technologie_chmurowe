@@ -8,7 +8,8 @@ docker build -t zadanie1:1.0  .
 ```
 
 b. uruchomienie kontenera
-```bash docker run -d --name zadanie1 -p 8000:8000 -e API_KEY="OpenWeatherAPI_KEY" zadanie1:1.0
+```bash 
+docker run -d --name zadanie1 -p 8000:8000 -e API_KEY="OpenWeatherAPI_KEY" zadanie1:1.0
 ```
 
 c. wyśiwetlenie logów
